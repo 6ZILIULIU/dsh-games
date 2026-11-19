@@ -1,0 +1,16 @@
+{
+  "tool": "dsh-game-studio",
+  "version": 1,
+  "games": {
+    "altos-run": {
+      "title": "沙丘跑者",
+      "source": "34944bc8d8ec1b14",
+      "publishedAt": "2026-11-19T03:48:24.913Z",
+      "buildId": "f699569f2485",
+      "dimension": "2d",
+      "orientation": "landscape",
+      "cover": "altos-run/cover.svg"
+    }
+  },
+  "wall": null
+}

@@ -1,0 +1,19 @@
+{
+  "format": "dsh-games-feed",
+  "version": 1,
+  "name": "6ZILIULIU 的小游戏",
+  "author": "6ZILIULIU",
+  "updatedAt": "2026-11-19T03:48:24.913Z",
+  "games": [
+    {
+      "slug": "altos-run",
+      "title": "沙丘跑者",
+      "url": "altos-run/",
+      "cover": "altos-run/cover.svg",
+      "dimension": "2d",
+      "orientation": "landscape",
+      "publishedAt": "2026-11-19T03:48:24.913Z"
+    }
+  ],
+  "wall": null
+}
