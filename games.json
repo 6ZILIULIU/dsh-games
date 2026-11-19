@@ -3,7 +3,7 @@
   "version": 1,
   "name": "6ZILIULIU 的小游戏",
   "author": "6ZILIULIU",
-  "updatedAt": "2026-11-19T16:28:51.971Z",
+  "updatedAt": "2026-11-19T17:00:51.791Z",
   "games": [
     {
       "slug": "altos-run-3d",
@@ -12,7 +12,7 @@
       "cover": "altos-run-3d/cover.jpg",
       "dimension": "3d",
       "orientation": "landscape",
-      "publishedAt": "2026-11-19T16:28:51.971Z"
+      "publishedAt": "2026-11-19T17:00:51.791Z"
     },
     {
       "slug": "altos-run",
