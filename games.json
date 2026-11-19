@@ -3,8 +3,17 @@
   "version": 1,
   "name": "6ZILIULIU 的小游戏",
   "author": "6ZILIULIU",
-  "updatedAt": "2026-11-19T03:48:24.913Z",
+  "updatedAt": "2026-11-19T04:12:28.297Z",
   "games": [
+    {
+      "slug": "altos-run-3d",
+      "title": "沙丘跑者 3D",
+      "url": "altos-run-3d/",
+      "cover": "altos-run-3d/cover.jpg",
+      "dimension": "3d",
+      "orientation": "landscape",
+      "publishedAt": "2026-11-19T04:12:28.297Z"
+    },
     {
       "slug": "altos-run",
       "title": "沙丘跑者",
