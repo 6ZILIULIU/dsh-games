@@ -19,6 +19,15 @@
       "dimension": "3d",
       "orientation": "landscape",
       "cover": "altos-run-3d/cover.jpg"
+    },
+    "lingren-tactics": {
+      "title": "灵刃战棋",
+      "source": "849f4b665e98cb29",
+      "publishedAt": "2026-11-19T17:48:53.269Z",
+      "buildId": "9ceb0f37de82",
+      "dimension": "2d",
+      "orientation": "portrait",
+      "cover": "lingren-tactics/cover.jpg"
     }
   },
   "wall": null

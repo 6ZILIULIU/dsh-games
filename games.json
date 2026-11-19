@@ -3,8 +3,17 @@
   "version": 1,
   "name": "6ZILIULIU 的小游戏",
   "author": "6ZILIULIU",
-  "updatedAt": "2026-11-19T17:01:50.021Z",
+  "updatedAt": "2026-11-19T17:48:53.269Z",
   "games": [
+    {
+      "slug": "lingren-tactics",
+      "title": "灵刃战棋",
+      "url": "lingren-tactics/",
+      "cover": "lingren-tactics/cover.jpg",
+      "dimension": "2d",
+      "orientation": "portrait",
+      "publishedAt": "2026-11-19T17:48:53.269Z"
+    },
     {
       "slug": "altos-run-3d",
       "title": "雪峰速降 3D",
